@@ -1,0 +1,22 @@
+#breakfast {
+  background-image: url("../images/foodtop/breakfast.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+
+
+}
+#logo {
+  background-image: url("../images/backgrounds/landing.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+#lunch {
+  background-image: url("../images/foodtop/lunch.jpg");
+  background-size: auto;
+}
+
+#dinner {
+  background-image: url("../images/foodtop/dinner.jpg");
+  background-size: auto;
+}
