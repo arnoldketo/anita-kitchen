@@ -2,7 +2,7 @@
   background-image: url("../images/foodtop/breakfast.jpg");
   background-repeat: no-repeat;
   background-size: auto;
-
+  padding: 77px;
 
 }
 #logo {
@@ -14,11 +14,13 @@
 #lunch {
   background-image: url("../images/foodtop/lunch.jpg");
   background-size: auto;
+  padding: 77px;
 }
 
 #dinner {
   background-image: url("../images/foodtop/dinner.jpg");
   background-size: auto;
+  padding: 77px;
 }
 
 #bottom {
@@ -41,3 +43,14 @@
     display: table;
     clear: both;
 }
+
+#subscribe {
+  background-image: url("../images/backgrounds/subscribe.jpg");
+}
+ #happy-hour {
+     padding: 38.5px;
+ }
+
+ #party {
+     padding: 38.5px;
+ }
