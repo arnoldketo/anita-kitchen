@@ -3,6 +3,8 @@
   background-repeat: no-repeat;
   background-size: auto;
   padding: 77px;
+  font-family: 'Dancing Script' cursive;
+  font-size: 25px;
 
 }
 #logo {
@@ -15,12 +17,16 @@
   background-image: url("../images/foodtop/lunch.jpg");
   background-size: auto;
   padding: 77px;
+  font-family: 'Dancing Script' cursive;
+  font-size: 25px;
 }
 
 #dinner {
   background-image: url("../images/foodtop/dinner.jpg");
   background-size: auto;
   padding: 77px;
+  font-family: 'Dancing Script' cursive;
+  font-size: 25px;
 }
 
 #bottom {
@@ -46,11 +52,24 @@
 
 #subscribe {
   background-image: url("../images/backgrounds/subscribe.jpg");
+  padding: 77px;
 }
  #happy-hour {
-     padding: 38.5px;
+     padding: 28px;
  }
 
  #party {
-     padding: 38.5px;
+     padding: 28px;
  }
+.first {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+}
+
+.pt {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+}
+.orange {
+ font: color:orange;
+}
