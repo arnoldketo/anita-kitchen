@@ -1,14 +1,35 @@
-# Independent Project
+# Anita's Kitchen
+#### Landing Page 25/6/18
+#### By Arnold Keto
+## Description
+This ia a landing page for Anita's catering business. It gives a brief outline of her menu as wellas sharing customer preferences.
+## Known Bugs
+There is a small issue with the carousel.
+## Technologies Used
+HTML CSS
+## Support and contact details
+Incase of any concerns, please send an email at arnoldjohn20@gmail.com. 
+## Link
+arnoldketo.github.io/anita-kitchen
+### License
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
-
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
   
-  3) Fix up the folder structure.
+Copyright (c) 2018 arnold keto.
 
-  4) Submit your link through Moringa School LMS.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
